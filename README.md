@@ -1,7 +1,7 @@
 ## Hi there 👋
 ## Olá! Eu sou Felipe Caetano 👋
 
-Sou desenvolvedor full-stack apaixonado por resolver problemas com código e criar soluções que tornam processos mais eficientes. 🚀  
+Sou Engenheiro de Software e desenvolvedor full-stack apaixonado por resolver problemas com código e criar soluções que tornam processos mais eficientes. 🚀  
 Atualmente, foco em desenvolvimento de sistemas backend e aplicativos multiplataforma.
 
 ---
